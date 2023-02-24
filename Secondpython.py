@@ -1,3 +1,3 @@
 # Display Second
-pring("Uploading the prog")
+print("Uploading the prog")
 
